@@ -118,6 +118,6 @@ temp/
 # Ignore all local history of files
 .history
 
-secret.json
+.env
 
 # End of https://www.gitignore.io/api/node,visualstudiocode
